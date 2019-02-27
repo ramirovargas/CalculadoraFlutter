@@ -6,6 +6,6 @@ A new Flutter application.
 
 This project a project using flutter that operates two number
 
-##Screnshots form the app
+## Screnshots form the app
 
-![Alt text](/Users/rvargas/Desktop/captura.png?raw=true "Title")
+![Scrennshot image](/Users/rvargas/Desktop/captura.png)
